@@ -1,4 +1,4 @@
-# 🤖 Rule-Based Chatbo
+Rule-Based Chatbot
 Description
 
 This project is a **Rule-Based Chatbot** developed using **Python**. The chatbot responds to predefined user queries using conditional statements and keyword matching. It provides information on topics such as Python, Java, C, Artificial Intelligence (AI), current date and time, and maintains a simple chat history. This project demonstrates the fundamentals of Python programming and basic Natural Language Processing (NLP) concepts.
