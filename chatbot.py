@@ -1,7 +1,5 @@
 import random
 from datetime import datetime
-
-# Dictionary containing chatbot responses
 responses = {
     "greetings": [
         "Hello! How can I help you?",
